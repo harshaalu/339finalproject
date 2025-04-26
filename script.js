@@ -17,18 +17,18 @@ const playlists = {
     },
     sad: {
         pop: ['https://www.youtube.com/embed/videoseries?list=PLtKtd1WGUIKUCp-A8CX5WbnXW0MO4Q8eN'],
-        rnb: ['"https://www.youtube.com/embed/videoseries?list=PLtKtd1WGUIKX_Fo8zrKrThXtXtaNWi4ay"'],
+        rnb: ['https://www.youtube.com/embed/videoseries?list=PLtKtd1WGUIKX_Fo8zrKrThXtXtaNWi4ay'],
         kpop: ['https://www.youtube.com/embed/videoseries?list=PLtKtd1WGUIKXzHO5pE2M6_xKjAAVWZwMP'],
         bollywood: ['https://www.youtube.com/embed/videoseries?list=PLtKtd1WGUIKU_kVJD2R_BAIgRFRrS8aNt'],
         altindie: ['https://www.youtube.com/embed/videoseries?list=PLtKtd1WGUIKXfYlvbIYLnmQjDDmBCBlCP'],
         indierock: ['https://www.youtube.com/embed/videoseries?list=PLtKtd1WGUIKXgJt1gY6T-CL3dgJdfseYF']
     },
     chill: {
-        pop: ['https://www.youtube.com/embed/videoseries?list=PLtKtd1WGUIKWD7Ruy93r7f037YDu60_v3'],
-        rnb: ['https://www.youtube.com/embed/videoseries?list=PLtKtd1WGUIKWD7Ruy93r7f037YDu60_v3'],
-        kpop: ['https://www.youtube.com/embed/videoseries?list=PLtKtd1WGUIKWD7Ruy93r7f037YDu60_v3'],
+        pop: ['https://www.youtube.com/embed/videoseries?list=PLtKtd1WGUIKVFYbZI9siAIj4tzoqkyyrY'],
+        rnb: ['https://www.youtube.com/embed/videoseries?list=PLtKtd1WGUIKWZoKa81unHvtdiYXF0fGOE'],
+        kpop: ['https://www.youtube.com/embed/videoseries?list=PLtKtd1WGUIKXZsD88VwQN1pQI5fVYagcA'],
         bollywood: ['https://www.youtube.com/embed/videoseries?list=PLtKtd1WGUIKWD7Ruy93r7f037YDu60_v3'],
-        altindie: ['https://www.youtube.com/embed/videoseries?list=PLtKtd1WGUIKWD7Ruy93r7f037YDu60_v3'],
+        altindie: ['https://www.youtube.com/embed/videoseries?list=PLtKtd1WGUIKX3qEIMscZNKcKDRM14Bmy4'],
         indierock: ['https://www.youtube.com/embed/videoseries?list=PLtKtd1WGUIKWD7Ruy93r7f037YDu60_v3']
     },
     stressed: {
