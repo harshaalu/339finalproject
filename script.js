@@ -6,12 +6,11 @@ const findMusicButton = document.getElementById('find-music');
 const playlistArea = document.getElementById('playlist-area');
 
 // Playlist links 
-// Playlist links 
-//const playlists = {
-   // happy: {
-    //    altindie: ['https://www.youtube.com/embed/videoseries?//list=PLtKtd1WGUIKWD7Ruy93r7f037YDu60_v3']
-
-   // }
+const playlists = {
+   happy: {
+    altindie: ['https://www.youtube.com/embed/videoseries?//list=PLtKtd1WGUIKWD7Ruy93r7f037YDu60_v3']
+    }
+}
    // happy: {
      //   pop: ['https://www.youtube.com/embed/videoseries?list=PLtKtd1WGUIKVkd8jHsAwmLJ9xb86eBDb7'],
        // rnb: ['https://www.youtube.com/embed/videoseries?list=PLtKtd1WGUIKWbpio5PmxzOcu6MKMdrnkq'],
