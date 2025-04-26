@@ -8,12 +8,11 @@ const playlistArea = document.getElementById('playlist-area');
 // Playlist links 
 const playlists = {
     happy: {
-        pop: ['https://www.youtube.com/embed/videoseries?list=PLtKtd1WGUIKWD7Ruy93r7f037YDu60_v3'],
-        rnb: ['https://www.youtube.com/embed/videoseries?list=PLtKtd1WGUIKWD7Ruy93r7f037YDu60_v3'],
-        kpop: ['https://www.youtube.com/embed/videoseries?list=PLtKtd1WGUIKWD7Ruy93r7f037YDu60_v3'],
-        bollywood: ['https://www.youtube.com/embed/videoseries?list=PLtKtd1WGUIKWD7Ruy93r7f037YDu60_v3'],
-        altindie: ['https://www.youtube.com/embed/videoseries?list=PLtKtd1WGUIKWD7Ruy93r7f037YDu60_v3'],
-        indierock: ['https://www.youtube.com/embed/videoseries?list=PLtKtd1WGUIKWD7Ruy93r7f037YDu60_v3']
+        pop: ['https://www.youtube.com/embed/videoseries?list=PLtKtd1WGUIKVkd8jHsAwmLJ9xb86eBDb7'],
+        rnb: ['https://www.youtube.com/embed/videoseries?list=PLtKtd1WGUIKWbpio5PmxzOcu6MKMdrnkq?list=PLtKtd1WGUIKWD7Ruy93r7f037YDu60_v3'],
+        bollywood: ['https://www.youtube.com/embed/videoseries?list=PLtKtd1WGUIKWrfxNw5IbyEgdD-QviMXR6'],
+        altindie: ['https://www.youtube.com/embed/videoseries?list=PLtKtd1WGUIKUrEaSrxFA4t_LXtWCnTMdk'],
+        indierock: ['https://www.youtube.com/embed/videoseries?list=PLtKtd1WGUIKUX4qzrfF3zMo5AJhNcPsIe']
     },
     sad: {
         pop: ['https://www.youtube.com/embed/videoseries?list=PLtKtd1WGUIKWD7Ruy93r7f037YDu60_v3'],
