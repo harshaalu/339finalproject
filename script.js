@@ -27,9 +27,9 @@ const playlists = {
         pop: ['https://www.youtube.com/embed/videoseries?list=PLtKtd1WGUIKVFYbZI9siAIj4tzoqkyyrY'],
         rnb: ['https://www.youtube.com/embed/videoseries?list=PLtKtd1WGUIKWZoKa81unHvtdiYXF0fGOE'],
         kpop: ['https://www.youtube.com/embed/videoseries?list=PLtKtd1WGUIKXZsD88VwQN1pQI5fVYagcA'],
-        bollywood: ['https://www.youtube.com/embed/videoseries?list=PLtKtd1WGUIKWD7Ruy93r7f037YDu60_v3'],
+        bollywood: ['https://www.youtube.com/embed/videoseries?list=PLtKtd1WGUIKWpdJqF6B4LvB3dv8K_1WPa'],
         altindie: ['https://www.youtube.com/embed/videoseries?list=PLtKtd1WGUIKX3qEIMscZNKcKDRM14Bmy4'],
-        indierock: ['https://www.youtube.com/embed/videoseries?list=PLtKtd1WGUIKWD7Ruy93r7f037YDu60_v3']
+        indierock: ['https://www.youtube.com/embed/videoseries?list=PLtKtd1WGUIKXgJt1gY6T-CL3dgJdfseYF']
     },
     stressed: {
         pop: ['https://www.youtube.com/embed/videoseries?list=PLtKtd1WGUIKWD7Ruy93r7f037YDu60_v3'],
