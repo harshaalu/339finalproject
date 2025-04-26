@@ -40,12 +40,12 @@ const playlists = {
         indierock: ['https://www.youtube.com/embed/videoseries?list=PLtKtd1WGUIKW72_fRrO2G2KzIZi4TtpWF']
     },
     angry: {
-        pop: ['https://www.youtube.com/embed/videoseries?list=PLtKtd1WGUIKWD7Ruy93r7f037YDu60_v3'],
-        rnb: ['https://www.youtube.com/embed/videoseries?list=PLtKtd1WGUIKWD7Ruy93r7f037YDu60_v3'],
-        kpop: ['https://www.youtube.com/embed/videoseries?list=PLtKtd1WGUIKWD7Ruy93r7f037YDu60_v3'],
-        bollywood: ['https://www.youtube.com/embed/videoseries?list=PLtKtd1WGUIKWD7Ruy93r7f037YDu60_v3'],
-        altindie: ['https://www.youtube.com/embed/videoseries?list=PLtKtd1WGUIKWD7Ruy93r7f037YDu60_v3'],
-        indierock: ['https://www.youtube.com/embed/videoseries?list=PLtKtd1WGUIKWD7Ruy93r7f037YDu60_v3']
+        pop: ['https://www.youtube.com/embed/videoseries?list=PLtKtd1WGUIKWMX7jYcEEYGWNSKqWTq56E'],
+        rnb: ['https://www.youtube.com/embed/videoseries?list=PLtKtd1WGUIKXYzmDKh5JUGiVpfWot-HIu'],
+        kpop: ['https://www.youtube.com/embed/videoseries?list=PLtKtd1WGUIKV5rZ15-89iJtpVPHr2dbxy'],
+        bollywood: ['https://www.youtube.com/embed/videoseries?list=PLtKtd1WGUIKWVmtKDLQYHk3Nn3Lsv1jCv'],
+        altindie: ['https://www.youtube.com/embed/videoseries?list=PLtKtd1WGUIKUXp7XYXaZwWCerBlTonhZW'],
+        indierock: ['https://www.youtube.com/embed/videoseries?list=PLtKtd1WGUIKVsy_LYwqLE1a8aOwESr3fG']
     }
 };
 
